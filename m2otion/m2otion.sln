@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m2otion", "m2otion\m2otion.csproj", "{CF3FA19B-63AC-46F9-B14E-8E7C58E06022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3FA19B-63AC-46F9-B14E-8E7C58E06022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3FA19B-63AC-46F9-B14E-8E7C58E06022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3FA19B-63AC-46F9-B14E-8E7C58E06022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3FA19B-63AC-46F9-B14E-8E7C58E06022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {869200F6-2301-486A-AF64-5EEAA23CC638}
+	EndGlobalSection
+EndGlobal
